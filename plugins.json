@@ -613,5 +613,22 @@
       "#c4a7e7"
     ],
     "dateAdded": "1582919913142"
-  }
+  },
+	{
+    "name": "hyper-phoenix",
+    "description": "Subtle Phoenix theme that was invented in order to bring comfy feeling of fireplace yet still keeping things hyper ",
+    "type": "theme",
+    "preview": "https://raw.githubusercontent.com/Ph0enixKM/hyper-phoenix/master/ss.png",
+    "colors": [
+      "#FFDDD6",
+      "#2a2522",
+			"#ff5c57",
+			"#79c534",
+			"#E0C84E",
+			"#5DA3F2",
+			"#DE66C2",
+			"#5BDEC8"
+    ],
+    "dateAdded": "1583933294962"
+	}
 ]
